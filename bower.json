@@ -21,8 +21,8 @@
     "url": "https://github.com/tkmoney/angular-rotten-tomatoes"
   },
   "main": [
-    "./dist/angular-rotten-tomatoes.js",
-    "./dist/angular-rotten-tomatoes.min.js"
+    "./dist/ngRottenTomatoes.min.js",
+    "./dist/ngRottenTomatoes.js"
   ],
   "ignore": [
     "**/.*",
