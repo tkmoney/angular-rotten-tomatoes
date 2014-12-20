@@ -1,6 +1,6 @@
 {
   "name": "angular-rotten-tomatoes-2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Rotten Tomatoes API AngularJS Service",
   "description": "Wraps the Rotten Tomatoes API into AngularJS services.",
   "keywords": [
