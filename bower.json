@@ -1,5 +1,5 @@
 {
-  "name": "angular-rotten-tomatoes",
+  "name": "angular-rotten-tomatoes-2",
   "version": "0.0.1",
   "title": "Rotten Tomatoes API AngularJS Service",
   "description": "Wraps the Rotten Tomatoes API into AngularJS services.",
@@ -15,14 +15,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hilios/angular-rotten-tomatoes/"
+    "url": "https://github.com/tkmoney/angular-rotten-tomatoes"
   },
   "bugs": {
-    "url": "https://github.com/hilios/angular-rotten-tomatoes/issues"
+    "url": "https://github.com/tkmoney/angular-rotten-tomatoes"
   },
   "main": [
-    "./angular-rotten-tomatoes.js",
-    "./angular-rotten-tomatoes.min.js"
+    "./dist/angular-rotten-tomatoes.js",
+    "./dist/angular-rotten-tomatoes.min.js"
   ],
   "ignore": [
     "**/.*",
