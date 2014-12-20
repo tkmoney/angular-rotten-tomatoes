@@ -1,6 +1,6 @@
 {
   "name": "angular-rotten-tomatoes-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Rotten Tomatoes API AngularJS Service",
   "description": "Wraps the Rotten Tomatoes API into AngularJS services.",
   "keywords": [
@@ -21,8 +21,8 @@
     "url": "https://github.com/tkmoney/angular-rotten-tomatoes"
   },
   "main": [
-    "./dist/ngRottenTomatoes.min.js",
-    "./dist/ngRottenTomatoes.js"
+    "dist/ngRottenTomatoes.min.js",
+    "dist/ngRottenTomatoes.js"
   ],
   "ignore": [
     "**/.*",
